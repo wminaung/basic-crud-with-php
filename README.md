@@ -6,7 +6,7 @@ Basic PHP crud site
 
 ## site link
 
-- [siteLink](http://dynamo.epizy.com)
+- [siteLink](https://dynamo.epizy.com)
 
 
 ## Features
